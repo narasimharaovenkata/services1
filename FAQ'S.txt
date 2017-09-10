@@ -1,0 +1,72 @@
+
+In Mutation + Pattadar Passbook service lot of request pending in Meeseva Dashboard but processing link not available in MRO login.
+
+Who is the competent authority for Industries and Commerce Services?
+
+Here Competent authority will be changed based on Nature of Industry. District general manger (GM) is competent authority for Micro Industries and Joint Director (JD) is competent authority for other all Industry types.
+How the applicant can know about his request pending in which Mandal
+
+What is Reopen
+
+What are the Rules for Revoke the Certificates
+
+How to Revoke Certificates
+
+At what reason can officer revokes the approved Certificate?
+
+What is the Meaning of Revoke in MeeSeva Portal?
+
+How to Change Designation for Revenue Divisional Officer to Sub-Collector in RDO Level Services?
+
+How to know whether Operator has taken the certificate Print or Not?
+
+How to transfer Integrated Certificate Applications from Tahasildar office to RDO Office (if Tahasildar is not competent authority to issue that particular caste)?
+
+How to transfer Integrated Application to other Mandal?
+
+What is the use of feature called “Request Process by Application No”?
+
+How to know Digital Certificate Information?
+
+In Ration card Data correction service, after selecting all approve/reject and finally submitting the request. Why the request is still shown in open status?
+
+What is Cat A & Cat B Services?
+
+How to Upload a Facsimile Signature?
+
+Error while generating Hash Message?
+
+Forgot Password or unable to login in MEESEVA Portal?
+
+How to Process Cat-B Adangal or Pahani in MEESEVA?
+
+FHow to Process Cat -B ISES Service in MEESEVA?
+
+How to generate a Caste Certificate without Nativity and Date of Birth from Integrated Certificate Service?
+
+ROR 1B Service "Data Not Available for requested katha number. Please contact Meeseva Admin"?
+
+How to revoke approved Request in Meeseva?
+
+How to upload multiple files in meeseva? (Or) Meeseva application browsing option does not allow more than one file to upload
+
+How to generate Creamy layer Certificate in MEESEVA?
+
+How to get student integrated certificate through meeseva?
+
+VILLAGE MAP SERVICE is Not Opening & Pending beyond SLA in MRO Login?
+
+EC entries are Available in CARD server but not available in MEESEVA or SDC Server! How to issue these EC Requests?
+
+Certified Copies are available in CARD server but not available in MEESEVA. Citizens are approaching SRO offices to obtain the same. How do we issue these CCs by SRO?
+
+How to know whether student data is available in Meeseva?
+
+To Whom & How to raise or intimate the problems/Modifications/Suggestions in MEESEVA?
+
+How does MRTS Works?
+
+Is there any Technical Support Contact No available for Department Officials to contact over a phone to inform their queries or issues?
+
+I am unable to see my Digital Certificate in the popup, while approval?
+
